@@ -15,6 +15,6 @@ brew tap tekintian/my https://github.com/tekintian/homebrew-my.git
 brew update
 
 brew search boost@1.59
-> jokersun/my/boost@1.59 ✔
+> tekintian/my/boost@1.59 ✔
 
 brew install tekintian/my/boost@1.59
